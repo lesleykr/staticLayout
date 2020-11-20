@@ -5,7 +5,7 @@ body{
 }
 
 header {
-    background-image: url('../images/kast-head-bkgrnd.png');
+    background-image: url('https://user-images.githubusercontent.com/73612536/99750901-31517f00-2aaf-11eb-9e06-063885395762.png');
     height: 1020px;
     padding-top: 0;
     background-repeat: no-repeat;
@@ -178,7 +178,7 @@ transform: scale(1.1);
 #featured {
     display: grid;
     /* grid-template-columns: 300px 300px 300px; */
-    grid-template-columns: 26em 20em 20em 20em 20em;
+    grid-template-columns: 28em 20em 20em 20em 20em;
     grid-template-rows: 150px 150px 150px 150px;
     padding-top:50px;  
     justify-content: center;
@@ -245,7 +245,7 @@ transform: scale(1.1);
 }
 
 #what-is {
-    background-image: url('../images/what-is-bgrnd.jpg');
+    background-image: url('https://user-images.githubusercontent.com/73612536/99750904-331b4280-2aaf-11eb-829b-2fcad5fe3c18.jpg');
     padding-top: 70px;
     padding-bottom: 120px;
     color: white; 
