@@ -110,6 +110,10 @@ nav{
     margin-right: 40px;
 }
 
+#nav-premium:hover {
+    text-decoration: underline;
+}
+
 #open {
     border: 1px solid white;
     color: white;
