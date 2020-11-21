@@ -178,7 +178,7 @@ nav{
     width: 220px;
     height: 45px;
     border: none;
-    border-radius: 5px;
+    border-radius: 2px;
     font-size: 18px;
     font-weight: bold;
     letter-spacing: 1px;
@@ -259,13 +259,18 @@ nav{
 
 #what-is {
     background-image: url('https://user-images.githubusercontent.com/73612536/99750904-331b4280-2aaf-11eb-829b-2fcad5fe3c18.jpg');
-    padding-top: 70px;
-    padding-bottom: 120px;
+    padding-top: 67px;
+    padding-bottom: 113px;
     color: white; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 #what-is p {
-    width: 650px; 
+    width: 650px;
+    padding-top: 18px; 
+    padding-bottom: 35px;
 }
 
 #try {
